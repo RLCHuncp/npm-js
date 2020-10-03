@@ -12,5 +12,8 @@
     "package"
   ],
   "author": "@LucyCampos <rlch06.uncp@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
 }
