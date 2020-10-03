@@ -1,0 +1,16 @@
+{
+  "name": "npm-js",
+  "version": "1.0.0",
+  "description": "Constuir un paquete para node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "@LucyCampos <rlch06.uncp@gmail.com>",
+  "license": "MIT"
+}
